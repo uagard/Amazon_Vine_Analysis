@@ -17,10 +17,6 @@ The purpose of this analysis was to use Pyspark to perform the ETL process to ex
 
 The dataset had 1,785,997 reviews, however, only reviews with 20 or more votes were considered, norrowing the list to 65,379 , in addition helpful votes were defined as being 50% or greater than the total votes, which narrowed the list to 40,565.
 
-![paid_vine_votes](https://user-images.githubusercontent.com/98793962/174197413-737d0867-effb-42d7-937c-ed01ea67a5b8.png)
-
-![unpaid_vine_votes](https://user-images.githubusercontent.com/98793962/174199879-be74d31a-70bd-4af3-821c-8e555288d12e.png)
-
 Regarding paid vine reviews, only 94 revies were filtered out as paid, 48 of those being 5 star reviews. This accounts for a 51.06% of 5-star paid vine program reviews.
 
 Regarding the unpaid vine reviews, 40,471 reviews were filtered out as unpaid, 15,663 of those were 5 star reviews, accounting to a 38.7% of 5-star reviews. 
