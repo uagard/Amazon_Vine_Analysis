@@ -8,9 +8,6 @@ The purpose of this analysis was to use Pyspark to perform the ETL process to ex
 - PySpark 
 - Google Collaboratory 
 - Amazon Web Services (AWS)
-- Postgresql 
-- pgAdmin 
-- Pandas 
 
 ## Results 
 
