@@ -15,7 +15,7 @@ The objective for this analysis was to use Pyspark to perform the ETL process to
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-The dataset had 1,785,997 reviews, only reviews with 20 or more votes were considered, norrowing the list to 65,379 , in addition helpful votes were defined as being 50% or greater than the total votes, which narrowed the list to 40,565.
+Overall the dataset has 1,785,997 reviews. For the sake of the project, only reviews with 20 or more votes were considered. Once the was done it narrowed the list to 65,379 reviews. In addition helpful votes were defined as being 50% or greater than the total votes, which narrowed the list to 40,565.
 
 Regarding paid vine reviews, only 94 revies were filtered out as paid, 48 of those being 5 star reviews. This accounts for a 51.06% of 5-star paid vine program reviews.
 
